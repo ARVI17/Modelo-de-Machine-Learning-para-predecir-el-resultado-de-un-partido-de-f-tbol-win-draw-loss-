@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.env
+.venv/
+.envrc
+.ipynb_checkpoints/
+.DS_Store
+notebooks/.ipynb_checkpoints/
+.idea/
+.vscode/
+logs/
+data/
+models/

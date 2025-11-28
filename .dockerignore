@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.env
+.venv
+.envrc
+.git
+.gitignore
+notebooks/
+data/
+models/
+logs/
+__pycache__
+.DS_Store
